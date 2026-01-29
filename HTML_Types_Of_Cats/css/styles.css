@@ -33,3 +33,47 @@ nav a {
     font-size: 30px;
     margin: 0 10px;
 }
+nav a:hover {
+    color: rgb(123, 123, 208);
+    text-decoration:none;
+}
+
+main {
+ margin: 20px auto;
+    border: 2px solid rgb(12, 12, 12);
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
+
+main h2 {
+color: #244d83;
+text-align: center;
+
+}
+
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+}
+
+footer {
+padding: 40px 0;
+text-align: center;
+border-top: 3px solid rgb(0, 0, 0);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
