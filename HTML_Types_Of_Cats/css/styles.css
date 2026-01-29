@@ -1,3 +1,35 @@
 body{
-    background-color: darkslategrey;
+    background-color: rgb(175, 231, 181);
+}
+
+#container {
+    background-color: aliceblue;
+    width: 950px;
+    margin: 20px auto;
+    border: 2px solid rgb(12, 12, 12);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+header{
+    text-align: center;
+    padding: 50px;
+}
+
+header h1 {
+    color: #000000;
+    font-size: 30px;
+}
+
+nav {
+    text-align: center;
+    border-top: 3px solid rgb(0, 0, 0);
+    border-bottom:3px solid #000000;
+    padding: 20px 0;
+}
+
+nav a {
+    color: rgb(79, 149, 79);
+    font-size: 30px;
+    margin: 0 10px;
 }
