@@ -1,9 +1,16 @@
 body {
 background-color: #F0F1F2;
+
 }
 
 #contaniner {
     background-color:#BF7F5A;
+width: 50%;
+margin: 20px auto;
+border: 4px solid #73706E;
+padding: 20px;
+border-radius: 20px;
+
 }
 
 
