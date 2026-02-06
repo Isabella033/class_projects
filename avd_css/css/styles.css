@@ -130,8 +130,13 @@ iframe {
     display: block;
     margin: 20px auto;
     border-radius: 10px;
-border: 6px solid #371A40;
+border: 2px solid #371A40;
 }
+
+.donate_donate {
+    text-align: center;
+}
+
 
 
 
