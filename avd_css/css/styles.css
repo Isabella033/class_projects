@@ -113,6 +113,26 @@ footer {
 }
 
 
+.img_style {
+width: 75%;
+border: 2px solid #371A40;
+border-radius: 10px;
+box-shadow: 2px 2px 5px #4b4a4c;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+hr {
+    border: 1px soild #58702D;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+border: 6px solid #371A40;
+}
+
 
 
 
