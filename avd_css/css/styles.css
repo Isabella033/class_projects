@@ -9,14 +9,15 @@ img {
 }
 
 a {
-color:#b4c29b(0, 0, 0);}
+color:#bfcda6;
+}
 
 a:hover {
 color:#755480(44, 58, 48);
-    text-decoration:none;
+text-decoration:none;
 }
 #contaniner{
-    background-color:#58702D;
+background-color:#58702D;
 width: 50%;
 margin: 20px auto;
 border: 4px solid #371A40;
