@@ -9,15 +9,13 @@ img {
 }
 
 a {
-color:#B4C29B(0, 0, 0);
-
+color:#b4c29b(0, 0, 0);
 }
 
 a:hover {
-    color: #755480(44, 58, 48);
-    text-decoration: none;
+    color:#755480(44, 58, 48);
+    text-decoration:none;
 }
-
 #contaniner {
     background-color:#58702D;
 width: 50%;
@@ -123,7 +121,7 @@ margin-bottom: 20px;
 }
 
 hr {
-    border: 1px soild #58702D;
+    border: 1px solid #58702D;
 }
 
 iframe {
