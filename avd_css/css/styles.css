@@ -8,10 +8,10 @@ img {
     width: 100%;
 }
 
-a{
+#a{
 color:#b4c29b(0, 0, 0);}
 
-a:hover {
+#a:hover {
 color:#755480(44, 58, 48);
     text-decoration:none;
 }
