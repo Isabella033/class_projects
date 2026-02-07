@@ -8,15 +8,14 @@ img {
     width: 100%;
 }
 
-a {
-color:#b4c29b(0, 0, 0);
-}
+a{
+color:#b4c29b(0, 0, 0);}
 
 a:hover {
-    color:#755480(44, 58, 48);
+color:#755480(44, 58, 48);
     text-decoration:none;
 }
-#contaniner {
+#contaniner{
     background-color:#58702D;
 width: 50%;
 margin: 20px auto;
