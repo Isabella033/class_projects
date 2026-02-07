@@ -137,8 +137,34 @@ border: 2px solid #371A40;
     text-align: center;
 }
 
+.size_hugcats {
+border-radius: 10px;
+border: 2px solid #371A40;
+width: 75%;
+ text-align: center;
+}
+
+.img_style2 {
+width: 100%;
+border: 2px solid #371A40;
+border-radius: 10px;
+box-shadow: 2px 2px 5px #4b4a4c;
+margin-top: 20px;
+margin-bottom: 20px;
+ text-align: center;
+}
+
+.img_style3 {
+text-align: center;
+padding: 40px;
+border-bottom: 2px solid #371A40;
+
+}
 
 
-
-
-
+.donate_2 {
+   border-radius: 10px;
+border: 2px solid #371A40;
+width: 75%;
+ text-align: center;
+}
